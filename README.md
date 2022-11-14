@@ -3,7 +3,7 @@
 - Single page application in ReactJs | Backend in NestJs
 - Everything run in a dockercompose with a container for the frontend, for the backend, for the nginx reverseproxy and for the db (postgresql)
 - Production and Dev mode
-- Online Pong Game with matchmaking, duel invitations, friend requests, 42 api login, google2fa, instant chat dm or channels with socket.io, upload avatar, channel creation with 
+- Online Pong Game with matchmaking, duel invitations, friend requests, 42 api login, google2fa, instant chat dm or channels with *socket.io*, push notifications, upload avatar, channel creation with 
   ban mute or block, private/public channels (password or not) and a lot more ...
 - Full project in Typescript
 - CSS with *Chakra UI* 
